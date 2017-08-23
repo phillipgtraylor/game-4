@@ -1,0 +1,62 @@
+body {
+	background-image: url("http://gdj.graphicdesignjunction.com/wp-content/uploads/2011/02/background-pattern-design-91.jpg");
+}
+
+h1{
+	background-color: lightgrey;
+	display:inline;
+	padding: 10px;
+	margin-bottom: 20px;;
+	color: black;
+}
+
+#container {
+	width: 900px;
+	max-width:900px;
+	margin: 0 auto;}
+
+#container2 {
+	background-color: lightgrey;
+	width: 50%;
+	padding: 15px;
+	margin-top: 20px;}
+
+#totalScore {
+	margin-bottom: 50px;
+}
+
+#winslosses {
+	background-color: lightgrey;
+	display: inline-block;
+	padding: 15px 20px 10px 15px;
+	margin-top: 20px;
+	margin-left: 20px;
+	border: solid 1px #ddd
+
+}
+
+#crystals {
+	margin-top: 10px;
+	margin-bottom:26px;
+
+}
+#guessingNumber {
+	
+	float: left;
+	display: inline-block;
+	padding: 10px;
+	margin-top: 20px;
+	background-color: lightgrey;
+	border: solid 1px #ddd
+}
+#yts {
+	background: lightgrey;
+	display: inline;
+	padding: 20px;
+	border: solid 1px #ddd
+}
+
+.crystalImage {
+	height: 111px;
+	border: solid 1px #272525;
+	margin-left: 10px}
